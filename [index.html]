@@ -3,7 +3,7 @@
   <head>
     <title>Portfolio | Madeleine Brooks</title>
   </head>
-  <body
+  <body>
     <header>
       <h1>Madeleine Brooks</h1>
       <p class="slogan">Designer for Good & Waffles</p>
@@ -30,14 +30,5 @@
         <p>Project description text</p>
       </div>
     </main>
-    <footer>
-      <ul>
-        <li> <a href="https://www.linkedin.com/in/madeleinebrooks/">LinkedIn</a> </li>
-        <li> <a href="https://github.com/madeleinemb/madeleinemb.github.io">Github</a> </li>
-        <li> <a href="https://www.facebook.com/madeleineut/">Facebook</a> </li>
-        <li> <a href="https://twitter.com/madeleinebee">Twitter</a> </li>
-        <li> <a href="mailto:madeleineut@gmail.com">Email</a> </li>
-      </ul>
-    </footer>
   </body>
 </html>
